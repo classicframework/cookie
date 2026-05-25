@@ -1,0 +1,15 @@
+{
+  "name": "classicframework/cookie",
+  "description": "Classic Framework Cookie library",
+  "type": "library",
+  "license": "Unlicense",
+  "homepage": "https://github.com/classicframework/cookie",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "classicframework\\cookie\\": "src/"
+    }
+  }
+}
